@@ -1,0 +1,11 @@
+{
+  "station": "NIEV",
+  "location": "Neive",
+  "rain": 3.7,
+  "temperature": 21.5,
+  "humidity": 88,
+  "wind_speed": 6.4,
+  "wind_direction": "N",
+  "condition": "rainy",
+  "time": "2025-07-14T18:30:00Z"
+}
